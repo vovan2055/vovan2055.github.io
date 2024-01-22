@@ -1,8 +1,8 @@
-# Самый имбовый в мире сайт
-`by vovan2055`
+
+<body>
+  <p style="color:#00FF00";>Бета версия бота вышла!</p>
+</body>
 
 ---
 
-![тусим](ImPS.gif)
-
-![а где аладушки](komaru-aibek.gif)
+![скачать для Android](app-release.apk)
