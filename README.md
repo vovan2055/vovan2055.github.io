@@ -1,8 +1,5 @@
-
-<body>
-  <p style="color:#00FF00";>Бета версия бота вышла!</p>
-</body>
+# Бета версия бота вышла!
 
 ---
 
-![скачать для Android](app-release.apk)
+[скачать для Android](app-release.apk)
