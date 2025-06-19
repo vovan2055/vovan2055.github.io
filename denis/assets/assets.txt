@@ -8,5 +8,5 @@ c:b:/com/badlogic/gdx/utils/lsans-15.fnt:17711:1
 c:b:/com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:869:1
 c:b:bitcell_memesbruh03.fnt:17711:1
 c:b:bitcell_memesbruh03.png:10270:1
-t:particles/click.p:text/plain
+c:b:particles/click.p:2886:application/unknown
 c:b:particles/pixel.png:10270:1
