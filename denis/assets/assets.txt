@@ -7,6 +7,6 @@ c:b:/com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2886:1
 c:b:/com/badlogic/gdx/utils/lsans-15.fnt:17711:1
 c:b:/com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:869:1
 c:b:bitcell_memesbruh03.fnt:17711:1
-i:bitcell_memesbruh03.png:image/png
+c:b:bitcell_memesbruh03.png:10270:1
 t:particles/click.p:text/plain
-i:particles/pixel.png:image/png
+c:b:particles/pixel.png:10270:1
